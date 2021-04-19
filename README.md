@@ -1,5 +1,5 @@
 ![Header](https://github.com/alicialawjy/alicialawjy/blob/main/alicialawjy.png)
-## Alicia Law 
+# Alicia Law 
 🎓  | Imperial College London <br>
 📧  | @alicialawjy@gmail.com <br>
 📍  | Based in London, UK <br>
