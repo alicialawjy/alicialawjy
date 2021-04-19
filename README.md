@@ -1,4 +1,4 @@
-![Header](https://github.com/alicialawjy/alicialawjy/blob/main/alicialawjy.png)
+![Header](https://github.com/alicialawjy/alicialawjy/blob/main/alicialawjy.gif)
 # Alicia Law 
 🎓  | Imperial College London <br>
 📧  | @alicialawjy@gmail.com <br>
