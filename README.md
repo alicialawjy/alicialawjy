@@ -5,4 +5,4 @@
 📍  | Based in London, UK <br>
 
 Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
-Tech Stack: Python, MATLAB, Django, JavaScript, HTML, CSS and Git.
+Tech Stack: Python, MATLAB, Django, SQLite, JavaScript, HTML, CSS and Git.
