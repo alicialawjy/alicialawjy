@@ -32,6 +32,6 @@ This course and these projects have allowed me to:
 
 ### Imperial College London - Project Scripts (MATLAB)
 These repositories host scripts to major courseworks I worked on while in university, meant for structural design applications.
-#### 1. [roof_optimisation](https://github.com/alicialawjy/MATLAB-roof-optimisation)
+#### 1. [MATLAB-roof-optimisation](https://github.com/alicialawjy/MATLAB-roof-optimisation)
 
-#### 2. [sway_structure](https://github.com/alicialawjy/MATLAB-sway-structure)
+#### 2. [MATLAB-sway-structure](https://github.com/alicialawjy/MATLAB-sway-structure)
