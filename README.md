@@ -1,5 +1,6 @@
 ![Header](https://github.com/alicialawjy/alicialawjy/blob/main/alicialawjy2.png)
 # Alicia Law 
+💼  | Atkins London
 🎓  | Imperial College London <br>
 📧  | @alicialawjy@gmail.com <br>
 📍  | Based in London, UK <br>
@@ -33,6 +34,6 @@ This course and these projects have allowed me to:
 ### Imperial College London - Project Scripts (MATLAB)
 These repositories host scripts to major courseworks I worked on while in university, meant for structural design applications.
 #### 1. [MATLAB-roof-optimisation](https://github.com/alicialawjy/MATLAB-roof-optimisation)
-The design and optimisation of an arched steel roof truss system spanning 100m. 
+The design and optimisation of an arched steel roof truss system spanning 100m done with engineering consultancy, ARUP
 #### 2. [MATLAB-sway-structure](https://github.com/alicialawjy/MATLAB-sway-structure)
 The design and optimisation of sway structures using Frames vs Trusses.
