@@ -1,7 +1,6 @@
 ![Header](https://github.com/alicialawjy/alicialawjy/blob/main/alicialawjy2.png)
 # Alicia Law 
-💼  | Atkins London
-🎓  | Imperial College London <br>
+🎓  | MSc Computing (Software Engineering) Imperial College London <br>
 📧  | @alicialawjy@gmail.com <br>
 📍  | Based in London, UK <br>
 
