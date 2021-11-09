@@ -1,6 +1,7 @@
 ![Header](https://github.com/alicialawjy/alicialawjy/blob/main/alicialawjy2.png)
 # Alicia Law 
-🎓  | MSc Computing (Software Engineering) Imperial College London <br>
+🎓  | MSc Computing (Software Engineering) Imperial College London (2022) <br>
+🎓  | MEng Civil and Environmental Engineering, Imperial College London (2019) <br>
 📧  | @alicialawjy@gmail.com <br>
 📍  | Based in London, UK <br>
 
