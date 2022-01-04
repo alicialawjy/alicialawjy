@@ -28,13 +28,8 @@ Coursework Grade: to be graded
 Use different scheduling algorithms to assign and assess image processing workflow on Azure servers. This was done as part of the Scheduling and Resource Allocation course.<br>
 Coursework Grade: 90%
 
-### Projects for Harvard x EdX Course – CS50 Web Programming with Python and JavaScript
-These projects involved full-stack web development: 
--	User-interface and front-end: HTML, CSS and JavaScript,
--	Backend: Django framework with Python,
--	Database - SQLite,  
--	Version control software: GitHub, 
--	Web development best practices (CI/CD) such as through unit testing (including Selenium for browser testing).
+### Projects for Harvard x EdX Course – [CS50 Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+A ~30-hour online course on web programming. Related-projects I did:
 
 #### 1. [bubble](https://github.com/alicialawjy/bubble)
 A twitter-like social network website. 
