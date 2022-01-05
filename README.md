@@ -13,14 +13,17 @@ Experience: Python (including Pandas, Numpy, PyTorch), MATLAB, Django, JavaScrip
 Courseworks as part of my Software Engineering Specialist Course at Imperial.
 
 #### 1. [Machine Learning 1 - Decision Trees](https://github.com/mchara01/WiFi_location_prediction)
+TECH: Python, Matplotlib, Git<br>
 Decision Tree model that predicts a user's location based on WiFi signals. <br>
 Coursework Grade: 100%
 
 #### 2. [Machine Learning 2 - Neural Network](https://github.com/alicialawjy/Housing-Price-Neural-Network/blob/main/README.md)
-An artifical Neural Network used to predict housing prices.<br>
+TECH: Python, PyTorch, Numpy, Pandas, Git<br>
+An artifical Neural Network used to predict housing prices. <br>
 Coursework Grade: 99%
 
 #### 3. [Software Engineering Project - FuelOpt](https://github.com/mchara01/FuelOpt)
+TECH: Python, Django, Dart, Flutter, AWS, SQL, MariaDB, Docker, Git<br>
 A mobile application used to assist drivers in planning and optimising their fuel-filling journeys in terms of cost, time, and fuel efficiency. This was 13-week long Software Engineering Group Project where I was responsible for developing the optimisation algorithm, maintaining the backend server and our APIs.<br>
 Coursework Grade: to be graded
 
