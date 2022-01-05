@@ -28,6 +28,7 @@ A mobile application used to assist drivers in planning and optimising their fue
 Coursework Grade: to be graded
 
 #### 4. [Image Processing and Workflow](https://github.com/WeiSin99/scheduling-coursework)
+TECH: Python, Azure
 Use different scheduling algorithms to assign and assess image processing workflow on Azure servers. This was done as part of the Scheduling and Resource Allocation course.<br>
 Coursework Grade: 90%
 
