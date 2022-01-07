@@ -16,7 +16,7 @@ Courseworks as part of my Software Engineering Specialist Course at Imperial.
 Coursework Grade: 100%  |  TECH: Python, Matplotlib, Git<br>
 Decision Tree model that predicts a user's location based on WiFi signals.
 
-#### 2. [Machine Learning 2 - Neural Network](https://github.com/alicialawjy/Housing-Price-Neural-Network/blob/main/README.md)
+#### 2. [Machine Learning 2 - Neural Network](https://github.com/alicialawjy/Housing-Price-Neural-Network)
 Coursework Grade: 99% | TECH: Python, PyTorch, Numpy, Pandas, Git<br>
 An artifical Neural Network used to predict housing prices. 
 
