@@ -21,7 +21,7 @@ Coursework Grade: 99% | TECH: Python, PyTorch, Numpy, Pandas, Git<br>
 An artifical Neural Network regression model used to predict housing prices based on the Californian Housing Dataset.
 
 #### 3. [Software Engineering Project - FuelOpt](https://github.com/mchara01/FuelOpt)
-Coursework Grade: to be graded  | TECH: Python, Django, Dart, Flutter, AWS, SQL, MariaDB, Docker, Git<br>
+Coursework Grade: 83% | TECH: Python, Django, Dart, Flutter, AWS, SQL, MariaDB, Docker, Git<br>
 A mobile application used to assist drivers in planning and optimising their fuel-filling journeys in terms of cost, time, and fuel efficiency. This was 13-week long Software Engineering Group Project where I was responsible for developing the optimisation algorithm, maintaining the backend server and our APIs.
 
 #### 4. [Image Processing and Workflow](https://github.com/WeiSin99/scheduling-coursework)
