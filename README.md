@@ -22,7 +22,7 @@ An artifical Neural Network regression model used to predict housing prices base
 
 #### 3. [Software Engineering Project - FuelOpt](https://github.com/mchara01/FuelOpt)
 Coursework Grade: 83% | TECH: Python, Django, Dart, Flutter, AWS, SQL, MariaDB, Docker, Git<br>
-Watch demo video here: https://www.youtube.com/watch?v=NGsksgoK-4Q&t=576s&ab_channel=NadimRahman
+Watch demo video here: [demo video] (https://www.youtube.com/watch?v=NGsksgoK-4Q&t=576s&ab_channel=NadimRahman) <br>
 A mobile application used to assist drivers in planning and optimising their fuel-filling journeys in terms of cost, time, and fuel efficiency. This was 13-week long Software Engineering Group Project where I was responsible for developing the optimisation algorithm, maintaining the backend server and our APIs.
 
 #### 4. [Image Processing and Workflow](https://github.com/WeiSin99/scheduling-coursework)
