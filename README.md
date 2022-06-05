@@ -11,7 +11,7 @@ Experience: Python (including Pandas, Numpy, PyTorch, Scikit-learn, Matplotlib),
 ## Repositories
 ### Imperial College London (Computing with Software Engineering Specialism, MSc) - Courseworks
 Below are project highlights from my Software Engineering Specialist Course at Imperial. <br>
-For a full list of projects done, please see [here](https://github.com/alicialawjy/Imperial.md)
+For a full list of projects done, please see [here](https://github.com/alicialawjy/alicialawjy/blob/main/Imperial.md)
 
 #### 1. [Natural Language Processing 1 - Chinese/Multilingual Psychothearapy Chatbot](https://github.com/alicialawjy/multilingual-psychotherapy-chatbot)
 Coursework Grade: ongoing | TECH: Python, Jupyter, Numpy, Pandas, HuggingFace, Git<br>
