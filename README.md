@@ -13,7 +13,7 @@ Experience: Python (including Pandas, Numpy, PyTorch, Scikit-learn, Matplotlib),
 Below are project highlights from my Software Engineering Specialist Course at Imperial. <br>
 For a full list of projects done, please see [here](https://github.com/alicialawjy/alicialawjy/blob/main/Imperial.md)
 
-#### 1. [Master's Individual Project (NLP + SoftwareEng - Chinese/Multilingual Psychothearapy Chatbot](https://github.com/alicialawjy/multilingual-psychotherapy-chatbot)
+#### 1. [Master's Individual Project (NLP + SoftwareEng) - Chinese/Multilingual Psychothearapy Chatbot](https://github.com/alicialawjy/multilingual-psychotherapy-chatbot)
 Coursework Grade: ongoing | TECH: Python, Jupyter, Numpy, Pandas, HuggingFace, Git<br>
 This project has 3 main components: development of a <br>
 1. Emotion and Empathy Classifier using monolingual (Chinese) and mulitlingual pre-trained transformer language models, (NLP)
