@@ -35,6 +35,6 @@ Implement and evaluate a simple replicated banking service using the Raft consen
 Coursework Grade: 100% | TECH: Solidity <br>
 Implement a tic-tac-toe game using Solidity.
 
-### 3. [Image Processing and Workflow](https://github.com/WeiSin99/scheduling-coursework)
+### 4. [Image Processing and Workflow](https://github.com/WeiSin99/scheduling-coursework)
 Coursework Grade: 90% | TECH: Python, Azure<br>
 Use different scheduling algorithms to assign and assess image processing workflow on Azure servers. This was done as part of the Scheduling and Resource Allocation course.
