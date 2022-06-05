@@ -10,24 +10,24 @@ Experience: Python (including Pandas, Numpy, PyTorch, Scikit-learn, Matplotlib),
 
 ## Repositories
 ### Imperial College London (Computing with Software Engineering Specialism, MSc) - Courseworks
-Courseworks as part of my Software Engineering Specialist Course at Imperial.
+Below are project highlights from my Software Engineering Specialist Course at Imperial. <br>
+For a full list of projects done, please see [here](https://github.com/alicialawjy/Imperial.md)
 
-#### 1. [Machine Learning 1 - Decision Trees](https://github.com/mchara01/WiFi_location_prediction)
-Coursework Grade: 100%  |  TECH: Python, Matplotlib, Git<br>
-Decision Tree classification model, built from scratch, that predicts a user's location based on WiFi signals (continuous dataset).
+#### 1. [Natural Language Processing 1 - Chinese/Multilingual Psychothearapy Chatbot](https://github.com/alicialawjy/multilingual-psychotherapy-chatbot)
+Coursework Grade: ongoing | TECH: Python, Jupyter, Numpy, Pandas, HuggingFace, Git<br>
+My Master's Individual Project. This project has 3 main components: development of a <br>
+1. Emotion and Empathy Classifier using monolingual (Chinese) and mulitlingual pre-trained transformer language models, (NLP)
+2. Sentence Generation model using GPT-2 (NLP), and
+3. Chatbot interface to be deployed on AWS (Software Engineering) 
 
-#### 2. [Machine Learning 2 - Neural Network](https://github.com/alicialawjy/Housing-Price-Neural-Network)
-Coursework Grade: 99% | TECH: Python, PyTorch, Numpy, Pandas, Git<br>
-An artifical Neural Network regression model used to predict housing prices based on the Californian Housing Dataset.
-
-#### 3. [Software Engineering Project - FuelOpt](https://github.com/mchara01/FuelOpt)
+#### 2. [Software Engineering Project - FuelOpt](https://github.com/mchara01/FuelOpt)
 Coursework Grade: 83% | TECH: Python, Django, Dart, Flutter, AWS, SQL, MariaDB, Docker, Git<br>
 Watch demo video here: [demo video](https://www.youtube.com/watch?v=NGsksgoK-4Q) <br>
 A mobile application used to assist drivers in planning and optimising their fuel-filling journeys in terms of cost, time, and fuel efficiency. This was 13-week long Software Engineering Group Project where I was responsible for developing the optimisation algorithm, maintaining the backend server and our APIs.
 
-#### 4. [Image Processing and Workflow](https://github.com/WeiSin99/scheduling-coursework)
-Coursework Grade: 90% | TECH: Python, Azure<br>
-Use different scheduling algorithms to assign and assess image processing workflow on Azure servers. This was done as part of the Scheduling and Resource Allocation course.
+#### 3. [Distributed Algorithms - Banking Raft Algorithm](https://github.com/alicialawjy/Banking-Raft-Algorithm)
+Coursework Grade: 95% | TECH: Functional Programming using Elixir <br>
+Implement and evaluate a simple replicated banking service using the Raft consensus algorithm.
 
 ### Projects for Harvard x EdX Course – [CS50 Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 A ~30-hour online course on web programming. Personal web development projects I did upon completing the course:
