@@ -3,10 +3,10 @@ Welcome to my project list where I document all projects I've done as part of my
 
 ## Machine Learning
 ### 1. [Natural Language Processing 1 - Chinese/Multilingual Psychothearapy Chatbot](https://github.com/alicialawjy/multilingual-psychotherapy-chatbot)
-Coursework Grade: ongoing | TECH: Python, Jupyter, Numpy, Pandas, HuggingFace, Git<br>
-My Master's Individual Project. This project has 3 main components: development of a <br>
+Coursework Grade: ongoing | TECH: Python (Pytorch, Numpy, Scikit-learn, Pandas, Transformers, NLTK), Jupyter, Django, AWS, Git<br>
+This project has 3 main components: development of a <br>
 1. Emotion and Empathy Classifier using monolingual (Chinese) and mulitlingual pre-trained transformer language models, (NLP)
-2. Sentence Generation model using GPT-2 (NLP), and
+2. Sentence Generation model using generative language models like GPT-2 (NLP), and
 3. Chatbot interface to be deployed on AWS (Software Engineering) 
 
 ### 2. [Natural Language Processing 2 - Patronising Language Detection](https://github.com/alicialawjy/Patronizing-Language-Detection)
