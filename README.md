@@ -6,7 +6,7 @@
 📍  | Based in London, UK <br>
 
 Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
-Experience: Python (including Pandas, Numpy, PyTorch, Scikit-learn, Matplotlib), MATLAB, Django, JavaScript, HTML, CSS, Git/GitHub/GitLab, Azure, AWS, SQL, SQLite, MariaDB, MySQL
+Experience: Python (including Pandas, Numpy, PyTorch, Scikit-learn, Matplotlib), MATLAB, Django, JavaScript, HTML, CSS, Git/GitHub/GitLab, Azure, AWS, SQL, SQLite, MariaDB, MySQL, Elixir, Solidity
 
 ## Repositories
 ### Imperial College London (Computing with Software Engineering Specialism, MSc) - Courseworks
