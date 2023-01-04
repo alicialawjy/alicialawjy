@@ -14,11 +14,11 @@ Below are project highlights from my Software Engineering Specialist Course at I
 For a full list of projects done, please see [here](https://github.com/alicialawjy/alicialawjy/blob/main/Imperial.md)
 
 #### 1. [Master's Individual Project (NLP + SoftwareEng) - Chinese/Multilingual Psychothearapy Chatbot](https://github.com/alicialawjy/multilingual-psychotherapy-chatbot)
-Coursework Grade: ongoing | TECH: Python (Pytorch, Numpy, Scikit-learn, Pandas, Transformers, NLTK), Jupyter, Django, AWS, Git<br>
+Coursework Grade: ongoing | TECH: Python (Pytorch, Numpy, Scikit-learn, Pandas, Transformers, NLTK), Jupyter, Flask, ReactJS, HTML, CSS, AWS, Git<br>
 This project has 3 main components: development of a <br>
-1. Emotion and Empathy Classifier using monolingual (Chinese) and mulitlingual pre-trained transformer language models, (NLP)
-2. Sentence Generation model using generative language models like GPT-2 (NLP), and
-3. Chatbot interface to be deployed on AWS (Software Engineering) 
+1. Multilingual Emotion, Empathy and Semantic Classifier using state-of-the-art pre-trained transformer language model XLM-R, (NLP)
+2. Fluent, accurate and empathetic text rewriting system using generative language models (GPT-2) trained using reinforcement learning and supervised learning methods,
+3. Design and deployment of the chatbot web application (frontend to backend).
 
 #### 2. [Software Engineering Project - FuelOpt](https://github.com/mchara01/FuelOpt)
 Coursework Grade: 83% | TECH: Python, Django, Dart, Flutter, AWS, SQL, MariaDB, Docker, Git<br>
